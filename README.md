@@ -1,3 +1,5 @@
+# Basic Authentication
+
 #### By Andrew Cho 
 
 ## Description
